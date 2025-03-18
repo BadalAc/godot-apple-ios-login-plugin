@@ -150,14 +150,14 @@ Then, copy the updated files from `Bin/` to your Godot project and repeat the se
   <table>
     <tr>
       <td align="center">
-        <img src="https://play-lh.googleusercontent.com/placeholder_ios" width="120" height="120"><br>
+        <img src="https://play-lh.googleusercontent.com/l-usbpBq0OuurA1e9FJSlnnVVa1HQpcUCMv_RlM63zk7jGUvXRC10Z9hDuqA83DTU6A=w240-h480-rw)" width="120" height="120"><br>
         <b>Ludo App Gold</b><br>
         <a href="https://apps.apple.com/np/app/ludo-app-gold/id6504749605">
           <img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg" width="120">
         </a>
       </td>
       <td align="center">
-        <img src="https://play-lh.googleusercontent.com/placeholder_android" width="120" height="120"><br>
+        <img src="https://play-lh.googleusercontent.com/placeholder_android](https://play-lh.googleusercontent.com/l-usbpBq0OuurA1e9FJSlnnVVa1HQpcUCMv_RlM63zk7jGUvXRC10Z9hDuqA83DTU6A=w240-h480-rw" width="120" height="120)" width="120" height="120"><br>
         <b>Ludo World War</b><br>
         <a href="https://play.google.com/store/apps/details?id=com.ludosimplegame.ludo_simple">
           <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="140">
