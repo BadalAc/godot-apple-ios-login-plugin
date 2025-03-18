@@ -9,10 +9,7 @@
   **A lightweight, easy-to-integrate library for implementing Apple Sign-In with Godot 4.3+ on iOS**
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/godotengine/godot-website/master/assets/press/icon_curve.svg" width="100" alt="Godot Icon"/>
-  <img src="https://developer.apple.com/assets/elements/icons/sign-in-with-apple/sign-in-with-apple-black-100x100.png" width="100" alt="Sign in with Apple"/>
-</p>
+
 
 ## 📂 Project Structure
 
