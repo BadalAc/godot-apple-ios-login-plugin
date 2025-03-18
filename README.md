@@ -13,6 +13,8 @@
 
 ## 📂 Project Structure
 
+
+
 ```
 Bin/
   ios/
@@ -24,7 +26,7 @@ Bin/
       SwiftGodot
 ```
 
-## 🛠️ Building the Framework
+## 🛠️ Building the Framework ( i already have built it for you Bin/ios/ skip if you don't see it continue below )
 
 To build the framework, run the following commands:
 
