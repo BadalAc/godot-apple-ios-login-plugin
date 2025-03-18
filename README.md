@@ -26,7 +26,7 @@ Bin/
       SwiftGodot
 ```
 
-## 🛠️ Building the Framework ( i already have built it for you Bin/ios/ skip if you don't see it continue below )
+## 🛠️ Building the Framework ( i already have built it for you Bin/ios/ if you don't see it continue below )
 
 To build the framework, run the following commands:
 
