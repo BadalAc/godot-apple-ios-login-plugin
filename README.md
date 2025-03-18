@@ -151,7 +151,7 @@ Then, copy the updated files from `Bin/` to your Godot project and repeat the se
     <tr>
       <td align="center">
         <img src="https://play-lh.googleusercontent.com/l-usbpBq0OuurA1e9FJSlnnVVa1HQpcUCMv_RlM63zk7jGUvXRC10Z9hDuqA83DTU6A=w240-h480-rw" width="120" height="120"><br>
-        <b>Ludo App Gold</b><br>
+        <b>Ludo World War</b><br>
         <a href="https://apps.apple.com/np/app/ludo-app-gold/id6504749605">
           <img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg" width="120">
         </a>
